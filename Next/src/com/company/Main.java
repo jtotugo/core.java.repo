@@ -6,6 +6,7 @@ public class Main {
 	// write your code here
 
         System.out.println("Added new code");
+        System.out.println("Added second code");
     }
 
 }

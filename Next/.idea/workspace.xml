@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+              <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -68,7 +68,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546849163168" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547133860807" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -108,12 +108,12 @@
       <workItem from="1547077373596" duration="71000" />
       <workItem from="1547077469258" duration="389000" />
       <workItem from="1547078387969" duration="88000" />
-      <workItem from="1547129525581" duration="609000" />
+      <workItem from="1547129525581" duration="1001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2839000" />
+    <option name="totallyTimeSpent" value="3231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="24" width="1260" height="687" extended-state="0" />
@@ -186,7 +186,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+          <caret line="7" column="42" lean-forward="true" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
         </state>
       </provider>
     </entry>
